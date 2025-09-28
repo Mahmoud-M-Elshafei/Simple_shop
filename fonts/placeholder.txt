@@ -1,0 +1,2 @@
+This is a placeholder file. Please add your Suwannaphum-Regular.ttf and Suwannaphum-Bold.ttf font files to this directory.
+
